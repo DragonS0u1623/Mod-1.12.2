@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "test:glowstone_slab_bottom" },
+        "half=top": { "model": "test:glowstone_slab_top" }
+    }
+}

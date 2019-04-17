@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "test:blocks/steel_ore",
+        "top": "test:blocks/steel_ore",
+        "side": "test:blocks/steel_ore"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {   
+        "normal": [
+            { "model": "test:fae_dirt_normal" },
+            { "model": "test:fae_dirt_normal", "y": 90 },
+            { "model": "test:fae_dirt_normal", "y": 180 },
+            { "model": "test:fae_dirt_normal", "y": 270 }
+        ]
+    }
+}
+

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "glowstone" },
+        "half=bottom": { "model": "glowstone" }
+    }
+}
